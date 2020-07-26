@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QRAplication</string>
+
+    <string name="invoice_prompt">Choose a INVOICE</string>
+
+    <string-array name="invoice_arrays">
+        <item>SI-Sales Invoice1</item>
+        <item>invoice2</item>
+        <item>invoice3</item>
+        <item>invoice4</item>
+        <item>invoice5</item>
+        <item>invoice6</item>
+        <item>invoice7</item>
+        <item>invoice8</item>
+    </string-array>
+
+</resources>
